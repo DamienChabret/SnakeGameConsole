@@ -1,3 +1,3 @@
 # SnakeGame
 
-Le jeu compote quelques bugs, je cherchais uniquement à tester ce qu'il était possible de faire en étant limité uniquement que par la console.
+Le "jeu" comporte quelques bugs, je cherchais uniquement à tester ce qu'il était possible de faire en étant limité uniquement que par la console.
